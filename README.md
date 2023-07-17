@@ -18,8 +18,17 @@
     word-spacing: -4px;
 6. Quy định số phần tử trên 1 hàng bằng: ul li:nth-child(4n)
 7. Màu lặp lại nhiều lần, tròn: ![image](https://github.com/VanDuyqwe1/CSS-HTML/assets/108679702/f3620fa1-88eb-4d1f-b695-529d7d34c46c)
-
-
+8. Thuộc tính vertical-align sắp xếp các nội dung theo chiều dọc. https://hocwebchuan.com/reference/cssSection/pr_vertical-align.php#:~:text=vertical%2Dalign%3A%20middle%3B,theo%20th%C3%A0nh%20ph%E1%BA%A7n%20bao%20ngo%C3%A0i.&text=vertical%2Dalign%3A%20bottom%3B,th%C3%A0nh%20ph%E1%BA%A7n%20trong%20c%C3%B9ng%20h%C3%A0ng.
+9. Thuộc tính background được dùng để định dạng nền (background) cho thành phần.
+    - background-attachment: Xác định thành phần nền được cố định hoặc cuộn so với trang.Được sử dụng kèm với giá trị background-image
+    - background-repeat: Xác định hình ảnh nền được lặp như thế nào.
+    - https://hocwebchuan.com/reference/cssSection/pr_bg.php
+10. Thuộc tính border-collapse xác định đường viền của table có tách biệt ra hay không.
+Chú ý là thuộc tính border-collapse chỉ được sử dụng cho thành phần table.
+    - border-collapse: collapse; Khoảng trống giữa các đường viền (border) của table bị loại bỏ, chỉ còn đường viền duy nhất.
+    - 
+11. Thuộc tính visibility xác định thành phần có được nhìn thấy hay không. https://hocwebchuan.com/reference/cssSection/pr_visibility.php
+12. 
 
    
    
