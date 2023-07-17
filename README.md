@@ -28,7 +28,7 @@ Chú ý là thuộc tính border-collapse chỉ được sử dụng cho thành 
     - border-collapse: collapse; Khoảng trống giữa các đường viền (border) của table bị loại bỏ, chỉ còn đường viền duy nhất.
     - 
 11. Thuộc tính visibility xác định thành phần có được nhìn thấy hay không. https://hocwebchuan.com/reference/cssSection/pr_visibility.php
-12. 
+12. Cusor
 
    
    
